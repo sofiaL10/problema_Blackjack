@@ -15,7 +15,6 @@ class Baraja:
     def repartir_carta(self, tapada: bool) -> Carta:
         pass
 
-
 class Mano:
     def __init__(self, cartas):
         self.cartas: list[Carta] = []
