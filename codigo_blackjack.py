@@ -4,7 +4,6 @@ class Carta:
         self.valor: str = valor
         self.oculta: bool = False
 
-
 class Baraja:
     def __init__(self):
         self.cartas: list[Carta] = []
