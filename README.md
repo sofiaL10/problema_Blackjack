@@ -2,7 +2,7 @@
 
 ## Modelo del mundo del problema ##
 
-![modelo del mundo](slDiagram.drawio.png)
+![modelo del mundo](sl.drawio.png)
 
 ## Descomposición y asignación de responsabilidades ##
 ### Tabla del requisito 3 ###
