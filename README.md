@@ -1,3 +1,3 @@
 # BLACKJACK #
 
-### Clases del  problema blackjack ###
+## Clases del  problema blackjack ##
